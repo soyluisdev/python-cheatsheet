@@ -782,13 +782,3 @@ print(db1 is db2)
 
 db1.close()
 db2.close()
-```
-
-    True
-    True
-
-
-
-```python
-
-```
